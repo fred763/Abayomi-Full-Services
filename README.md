@@ -1,55 +1,58 @@
 # Abayomi Full Services
 
-Un site web professionnel pour Abayomi Full Services, développé avec HTML et CSS purs.
+Site web professionnel pour Abayomi Full Services, spécialisé dans la réparation de smartphones à Abidjan.
 
-## Description
+## 🌟 Caractéristiques
 
-Ce site web présente les services offerts par Abayomi Full Services. Il comprend une page d'accueil avec une présentation des services et un formulaire de contact.
+### Services Proposés
+- Réparation d'écrans pour tous types de smartphones
+- Remplacement de batteries
+- Autres réparations (boutons, haut-parleurs, etc.)
 
-## Technologies Utilisées
+### Avantages Clients
+- Service à domicile dans tout Abidjan
+- Intervention rapide (dans les 24h)
+- Garantie sur toutes les réparations
+
+### Fonctionnalités du Site
+- Design moderne et responsive
+- Bouton WhatsApp flottant avec animation
+- Message WhatsApp prédéfini pour faciliter le contact
+- Sections détaillées (Services, Avantages, Zone d'intervention)
+- Compatible Android et iPhone
+
+## 🛠️ Technologies Utilisées
 
 - HTML5
-- CSS3 (avec variables CSS personnalisées)
+- CSS3 (Animations, Flexbox, Grid)
+- Design Responsive
+- Intégration WhatsApp Business
+- SVG Icons
 
-## Structure du Projet
+## 📱 Contact
 
-```
-Abayomi Full Services/
-├── index.html      # Page principale du site
-├── styles.css      # Feuille de style CSS
-└── README.md       # Documentation du projet
-```
+Pour toute réparation ou information :
+- WhatsApp : +225 07 59 25 19 00
+- Zone d'intervention : Partout dans Abidjan
 
-## Fonctionnalités
+## 🎨 Design
 
-- Design responsive
-- Navigation fluide
-- Présentation des services
-- Formulaire de contact
-- Design moderne et professionnel
+Le site utilise une palette de couleurs professionnelle :
+- Couleur principale : Bleu professionnel
+- Accents : Vert WhatsApp pour les CTA
+- Fond : Blanc et gris clair pour la lisibilité
 
-## Installation
+## 🔄 Mises à jour
 
-1. Clonez ce dépôt
-2. Ouvrez le fichier `index.html` dans votre navigateur
+Dernière mise à jour : 21 janvier 2025
+- Ajout du bouton WhatsApp flottant animé
+- Mise à jour des zones d'intervention
+- Optimisation du design responsive
 
-## Personnalisation
+## 👨‍💻 Développeur
 
-Pour modifier les couleurs du site, vous pouvez ajuster les variables CSS dans le fichier `styles.css` :
+Développé avec ❤️ par [Daniel Shofela](https://danielshofela.github.io/Mon-portfolio/)
 
-```css
-:root {
-    --primary-color: #2c3e50;
-    --secondary-color: #3498db;
-    --text-color: #333;
-    --background-color: #f5f6fa;
-}
-```
+## 📄 Licence
 
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
-
-## Licence
-
-Ce projet est sous licence MIT.
+© 2025 Abayomi Full Services. Tous droits réservés.
